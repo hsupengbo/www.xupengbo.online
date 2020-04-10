@@ -1,36 +1,5 @@
- 
+
+  [**English**](./en-index.md)
   |  |  |  |  |
   |---|---|---|---|
-  |[**Blog**](https://blog.xupengbo.online)   |   [**Home Page**](https://home.xupengbo.online) | [**College**](https://www.sdu.edu.cn)  |   [**Github Page**](https://hsupengbo.github.io) |
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HsuPengbo/www.xupengbo.online/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  |[**博客**](https://blog.xupengbo.online)   |   [**主页**](https://home.xupengbo.online) | [**学校**](https://www.sdu.edu.cn)  |   [**Github**](https://hsupengbo.github.io) |
