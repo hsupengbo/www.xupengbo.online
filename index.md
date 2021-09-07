@@ -3,7 +3,7 @@
   
   |  |  |  |  
   |---|---|---|   
-  |[**博客**](https://blog.xupengbo.online)   | [**SDU**] |   [**Github**](https://hsupengbo.github.io) |
+  |[**博客**](https://blog.xupengbo.online)   | **SDU** |   [**Github**](https://hsupengbo.github.io) |
 
   ![](images/icon0.jpg) 
   
